@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @tushargoyalofficial
+- 👋 Hi, I’m Tushar Goyal
 - 👀 I’m interested in mobile/web/full_stack development
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on React/ReactNative/Flutter
 - 📫 How to reach me ... I know, you can figure it out
+- Psersonal website: https://tushargoyal.vercel.app
 
 <!---
 tushargoyalofficial/tushargoyalofficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
